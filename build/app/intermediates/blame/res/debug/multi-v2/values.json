@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Users\\alulab14.INF.000\\Downloads\\FlutterApps\\nuevo_proyecto\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "D:\\Users\\alulab14.INF.000\\AndroidStudioProjects\\nuevo_proyecto\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
                     "source": "D:\\Users\\alulab14.INF.000\\.gradle\\caches\\transforms-2\\files-2.1\\ae13efc3dbae5c9ee58d4933337fcd21\\coordinatorlayout-1.0.0\\res\\values\\values.xml",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "D:\\Users\\alulab14.INF.000\\Downloads\\FlutterApps\\nuevo_proyecto\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "source": "D:\\Users\\alulab14.INF.000\\AndroidStudioProjects\\nuevo_proyecto\\android\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
